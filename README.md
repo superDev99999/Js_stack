@@ -77,8 +77,5 @@ Check out the [ongoing translations](https://github.com/verekia/js-stack-from-sc
 - [Russian](https://github.com/UsulPro/js-stack-from-scratch) by [React Theming](https://github.com/sm-react/react-theming)
 - [Thai](https://github.com/MicroBenz/js-stack-from-scratch) by [MicroBenz](https://github.com/MicroBenz)
 
-## Credits
-
-Created by [@verekia](https://twitter.com/verekia) – [verekia.com](http://verekia.com/).
 
 License: MIT
